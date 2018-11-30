@@ -1,5 +1,4 @@
 # Final-Project-S18
-# Final
 # 11.28.2018
 ## Questions for J.D.
 1. How can I make the color a little transparent?
